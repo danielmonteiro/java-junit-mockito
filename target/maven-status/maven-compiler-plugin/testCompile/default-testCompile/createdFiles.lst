@@ -1,0 +1,14 @@
+br\ce\wcaquino\exceptions\CaloteiroException.class
+br\ce\wcaquino\entidades\Usuario.class
+br\ce\wcaquino\exceptions\DivisionByZeroException.class
+br\ce\wcaquino\entidades\Locacao.class
+br\ce\wcaquino\exceptions\SpcConnectionException.class
+br\ce\wcaquino\dao\LocacaoDAO.class
+br\ce\wcaquino\utils\DataUtils.class
+br\ce\wcaquino\servicos\SPCService.class
+br\ce\wcaquino\servicos\EmailService.class
+br\ce\wcaquino\servicos\LocacaoService.class
+br\ce\wcaquino\entidades\Filme.class
+br\ce\wcaquino\dao\LocacaoDAOFake.class
+br\ce\wcaquino\entidades\Reflect.class
+br\ce\wcaquino\servicos\Calculadora.class
